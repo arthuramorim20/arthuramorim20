@@ -1,11 +1,5 @@
 <h1 data-importer="text" align="center"><I`m Arthur Evaristo/></h1>
 
-###
-
-<img data-importer="image" align="left" height="200" src="https://avatars.githubusercontent.com/u/123783284?s=400&u=c7eff54af08a56e845f74615cfd3fb244fb565c3&v=4"  />
-
-###
-
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=9D4EDD&center=true&vCenter=true&width=600&lines=Software+Engineer" alt="Typing SVG" />
 </h2>
