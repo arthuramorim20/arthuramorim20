@@ -6,7 +6,9 @@
 
 ###
 
-<h2 data-importer="text" align="center">![Typing SVG](https://demolab.com)</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=9D4EDD&center=true&vCenter=true&width=600&lines=Seu+texto+roxo+aqui!" alt="Typing SVG" />
+</h2>
 
 ###
 
